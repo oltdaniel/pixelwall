@@ -42,6 +42,10 @@ Platform IO Stuff. Just make sure you have the correct settings in your `platfor
 
 > **NOTE**: Documentation is still work-in-progress.
 
+
+##  3D Model
+The models can be found in the `3dcase` file, which includes the main stl, the cut stl into 4 pieces and the original Fusion 360 file. The whole piece is 272mmx272mm big. I recommend to make the height of the whole for the LED strip a little bit higher, for easier installation. The photos of the board front and back can be found [here in the wiki](https://github.com/oltdaniel/pixelwall/wiki).
+
 ## LICENSE
 
 Hack it until you have what you want. MIT.
